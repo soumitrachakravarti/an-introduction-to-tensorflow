@@ -14,7 +14,7 @@ This is were Tensorflow comes into picture. It's an open source machine learning
 
 # Course RoadMap
 Each chapter would be a seperate Jupyter Notebook containing some theory, reasoning, and handson example based on it. Each chapter has been indexed below for easy access.
- * [Basics](./Basics.ipynb)
- * [Regression](./Regression.ipynb)
- * [Classification](./Classification.ipynb)
- * [Convolution](./Convolution.ipynb)
+ * [Basics](./Basics.ipynb) (08.19.2022)
+ * [Regression](./Regression.ipynb) (08.26.2022)
+ * [Classification](./Classification.ipynb) (09.02.2022)
+ * [Convolution](./Convolution.ipynb) (09.09.2022)
