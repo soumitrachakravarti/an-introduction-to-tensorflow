@@ -1,2 +1,13 @@
-# tensorflow-tutorial-series
- A series of documented jupyter notebooks supporting the tensorflow tutorial series posted on several social media platforms
+# Getting started
+The simplest way to get started would be:
+* download a zip and run locally; you would need to have Jupyter Notebooks up and running
+* using a free account at Google Collab to run the Jupyter Notebooks (recommended)
+
+# What is machine learning?
+To answer this question, we must first understand how we thought of programming over the last decade. Ever since the computer was invented, we have been incharge of giving a complete set of instructions (Algorithm) to complete a set task. This fundamental principal has driven most of the software development, be it web or system levels or gaming. Fastforwarding to today, with the amount of data we create everyday and computing power we pocess (increasing by folds anually) we now have the capability to go beyond this principle. Instead giving it a compelte set of instructions, we now show the computer the outcome and let it figure how it the best way to achieve it.
+
+# Why do we need this?
+A team of programmers are significantly talented to methodically step out each step to achieve most set out tasks. For example, a task to build a program to bill customers at a retail shop (POS); this is very much achieveable and all steps can be planned out and the program can be writen. But what about tasks where the steps are way to many for the human mind to comprehend, for example extrapolating all points in space to map out a section in space. Tasks like this where Machine learning truly shines and if you think that the program you need to isn't this big it's best that you not include machine learning at all and follow the good old software engineering.
+
+# So how do we implement machine learning?
+This is were Tensorflow comes into picture. It's an open source machine learning library for preprocessing data, modelling data, and serving models "easier"; it would be singinficantly harder to build a machine learning model from scratch.
