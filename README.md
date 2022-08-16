@@ -10,4 +10,11 @@ To answer this question, we must first understand how we thought of programming 
 A team of programmers are significantly talented to methodically step out each step to achieve most set out tasks. For example, a task to build a program to bill customers at a retail shop (POS); this is very much achieveable and all steps can be planned out and the program can be writen. But what about tasks where the steps are way to many for the human mind to comprehend, for example extrapolating all points in space to map out a section in space. Tasks like this where Machine learning truly shines and if you think that the program you need to isn't this big it's best that you not include machine learning at all and follow the good old software engineering.
 
 # So how do we implement machine learning?
-This is were Tensorflow comes into picture. It's an open source machine learning library for preprocessing data, modelling data, and serving models "easier"; it would be singinficantly harder to build a machine learning model from scratch.
+This is were Tensorflow comes into picture. It's an open source machine learning library for preprocessing data, modelling data, and serving models "easier"; it would be singinficantly harder to build a machine learning model from scratch. There are several built-in models which maybe applicable to many tasks that we might have setout to achieve and ergo saves us from reinventing the wheel.
+
+# Course RoadMap
+Each chapter would be a seperate Jupyter Notebook containing some theory, reasoning, and handson example based on it. Each chapter has been indexed below for easy access.
+ * [Basics](./Basics.ipynb)
+ * [Regression](./Regression.ipynb)
+ * [Classification](./Classification.ipynb)
+ * [Convolution](./Convolution.ipynb)
