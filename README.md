@@ -1,7 +1,9 @@
 # Getting started
 The simplest way to get started would be:
+* Clone this repository and run Jupyter Notebooks locally (recommended)
+    * [Install Jupyter Notebooks](https://jupyter.org/install)
+* Upload them using to Google Collab using a free account to run the Jupyter Notebooks
 * download a zip and run locally; you would need to have Jupyter Notebooks up and running
-* using a free account at Google Collab to run the Jupyter Notebooks (recommended)
 
 # What is machine learning?
 To answer this question, we must first understand how we thought of programming over the last decade. Ever since the computer was invented, we have been incharge of giving a complete set of instructions (Algorithm) to complete a set task. This fundamental principal has driven most of the software development, be it web or system levels or gaming. Fastforwarding to today, with the amount of data we create everyday and computing power we pocess (increasing by folds anually) we now have the capability to go beyond this principle. Instead giving it a compelte set of instructions, we now show the computer the outcome and let it figure how it the best way to achieve it.
