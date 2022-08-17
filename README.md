@@ -2,7 +2,7 @@
 The simplest way to get started would be:
 * Clone this repository and run Jupyter Notebooks locally (recommended)
     * [Install Jupyter Notebooks](https://jupyter.org/install)
-* Upload them using to Google Collab using a free account to run the Jupyter Notebooks
+* Open with Google Collab using a free account to run the Jupyter Notebooks (easiest)
 * download a zip and run locally; you would need to have Jupyter Notebooks up and running
 
 # What is machine learning?
