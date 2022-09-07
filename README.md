@@ -1,8 +1,8 @@
 # Getting started
 The simplest way to get started would be:
+* Open with Google Collab using a free account to run the Jupyter Notebooks (easiest, also recommended)
 * Clone this repository and run Jupyter Notebooks locally (recommended)
     * [Install Jupyter Notebooks](https://jupyter.org/install)
-* Open with Google Collab using a free account to run the Jupyter Notebooks (easiest, also recommended)
 * download a zip and run locally; you would need to have Jupyter Notebooks installed
 
 # What is machine learning?
@@ -16,7 +16,7 @@ This is were Tensorflow comes into picture. It's an open source machine learning
 
 # Course RoadMap
 Each chapter would be a seperate Jupyter Notebook containing some theory, reasoning, and handson example based on it. Each chapter has been indexed below for easy access.
- * [Basics](./01-Basics.ipynb) (08.26.2022)
- * [Regression](./02-Regression.ipynb) (09.02.2022)
- * [Classification](./03-Classification.ipynb) (09.09.2022)
- * [Convolution](./04-Convolution.ipynb) (09.16.2022)
+* [Basics](./01-Basics.ipynb)
+* [Regression](./02-Regression.ipynb)
+* [Classification](./03-Classification.ipynb)
+* [Convolution](./04-Convolution.ipynb)
